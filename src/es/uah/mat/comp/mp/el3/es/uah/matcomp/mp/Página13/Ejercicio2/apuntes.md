@@ -1,0 +1,3 @@
+Ejercicio 2: Prueba a tener objetos dentro de objetos e intentar transformarlos a JSON: ¿Qué ocurre?
+
+Lo que ocurre si un objeto está dentro de otro objeto es que el JSON "entra" en el objeto hasta llegar al objeto que esta dentro del primer objeto, transformandolo a texto. Es como ir abriendo una carpeta que contiene más carpetas: vas abriendo una tras otra hasta llegar a los archivos y al final empaquetas todo en un solo ZIP (la cadena JSON).
